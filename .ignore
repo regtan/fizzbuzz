@@ -1,4 +1,0 @@
-#ignore everything under the 'bin' folder
-bin/
-#ignore the eclipse configuration files
-.classpath
